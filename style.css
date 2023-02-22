@@ -681,4 +681,27 @@ display: none;
 flex-basis: 22%;
 margin: 1.5%;  
      }
+      .Our projects{
+          margin-top: 600px;
+          padding: 0 5rem;
+          display: flex;
+          flex-direction: column;
+          gap: 2rem;
+     }
+    .button{
+     display: flex;
+     flex-direction: row;
+     gap: 3rem;
+    }
+    button{
+     padding: 15px 50px;
+     border-radius: 100px;
+     border:none;
+     background-color: aqua;
+     font-size: 20px;
+    }
+    .button-new{
+     background-color: #fff;
+     border: 2px solid black;
+    }
 }
